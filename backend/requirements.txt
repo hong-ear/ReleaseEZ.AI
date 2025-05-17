@@ -1,0 +1,9 @@
+# Python dependencies
+fastapi
+uvicorn[standard]
+asyncpg
+pydantic
+httpx
+pytest
+# PostgreSQL client (optional, for psql in setup)
+psycopg2-binary

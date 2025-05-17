@@ -1,0 +1,13 @@
+{
+  "resourceType": "Bundle",
+  "type": "collection",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "Patient",
+        "id": "example-patient",
+        "name": [{"use": "official", "family": "Muster", "given": ["Max"]}]
+      }
+    }
+  ]
+}
