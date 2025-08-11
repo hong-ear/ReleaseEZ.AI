@@ -1,4 +1,4 @@
-# Releasez.ai Project 
+# ReleaseEZ.AI 
 
 This project provides a full-stack setup with React (frontend), FastAPI (backend), PostgreSQL (database), and simplify locally using transformers.
 
